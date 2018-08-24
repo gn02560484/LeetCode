@@ -8,6 +8,7 @@ public class leetcode2 {
 	boolean checkifR = false;
 	
 	public leetcode2() {
+		
 	}
 	
 	public void listAll(LinkedList<Integer> nums,int position) {
